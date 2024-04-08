@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S3xD9cbZGT6GvfTK6dVTksIStrUcRtuxZDnZKo6cADZXRtYNzV1Nt6YdtfKYFdaOA3l5uVczs24ok4BAf+d/Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jiaqi\\Desktop\\WeatherAppC\\weatherapp-winforms-main\\WeatherApp\\WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jiaqi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
